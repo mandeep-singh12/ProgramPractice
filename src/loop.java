@@ -14,11 +14,11 @@ public class loop {
 				}
 			}
 		}
-	/*	
+		
 		for (int i = 0,j = 0; i < 10; i++,j--) {
 			System.out.println(j);
 			}
-*/
+
 	}
 
 }
